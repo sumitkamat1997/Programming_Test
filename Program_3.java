@@ -1,5 +1,5 @@
 import java.util.*;
-        class Singint2{
+        class Program_3{
             public static void main(String[] args){
                
                 Input ob=new Input();
